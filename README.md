@@ -1,5 +1,13 @@
+# Please Read before viewing all the files
 # Basic Counter
 First Program written with JavaScript along with HTML and CSS
+
+# Features
+2 Buttons created with HTML and CSS
+Basic Incrementor for counting and resetting the count back to 0
+
+# Screenshots
+(will be added)
 
 Remixing Ethically: A Note from the Author
 This code is licensed under the MIT License to ensure compatibility with GitHub’s systems.
