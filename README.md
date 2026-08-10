@@ -6,13 +6,14 @@ First Program written with JavaScript along with HTML and CSS
 2 Buttons created with HTML and CSS
 Basic Incrementor for counting and resetting the count back to 0
 
+# Running the Project
+* Please ensure that you have an appropriate IDE installed (prevably VSCode but Webstorm too) with a Live Server and preview for the contents!
+* Please ensure that you also have HTML, CSS and Javascript installed as the project is written in these 3 languages.
+
 # Screenshots
 (will be added)
 
-Remixing Ethically: A Note from the Author
+## Remixing Ethically: A Note from the Author
 This code is licensed under the MIT License to ensure compatibility with GitHub’s systems.
 
-However, I ask that you engage with it as a learning resource, not a copy-paste template.
-Feel free to remix, reinterpret, and rebuild — but do not replicate it word-for-word or use it commercially without permission.
-
-Respect the voice embedded in the logic. Remix with care. Credit when inspired.
+However, please use this for learning purposes, not for plagarising (copying and pasting blindly). Rebuild in your own way but do not copy it word-for-word or use it for commercial purposes. This code isn't meant for commercial but for sharing purposes and for people to see.
